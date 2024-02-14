@@ -1,0 +1,44 @@
+header{
+    background-color:rgb(155, 207, 172) ;
+   font:caption;
+   font-style: oblique;
+}
+footer{
+    background-color:rgb(121, 177, 139);
+
+}
+/*a las clases que creamos se las llama con un punto por delante*/
+.titulos{
+
+    font:larger;
+    color: rgb(18, 156, 37);
+    size: 5;
+    
+}
+.parrafos{
+   font-style: oblique;
+   color:rgb(14, 70, 7);
+}
+button:hover{
+
+    background-color: aqua;
+    color:aliceblue;
+    border-color: rgb(0, 255, 157);
+}
+.logo
+{
+
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+
+}
+.voley
+{
+    padding: 50px;
+}
+#nombre
+{ background-color: bisque; !important 
+   
+    padding: 50px;
+}
